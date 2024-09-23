@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import farmBlogs from "../../public/logo.jfif";
 import StyleHubLogo from "../../public/StyleHubLogo.jfif";
 import TripMateLogo from "../../public/TripMateLogo.jfif";
+import skillTrack from "../../public/stlogo.jfif";
 
 // Imported videos
 import video1 from "../../public/20240728_093816.mp4"; // Farmblogs App
@@ -48,6 +49,18 @@ function PortFolio() {
       btn2: "Source Code",
       btn3: "Live Preview",
       liveLink: "https://tripmatetraveling.netlify.app",
+    },
+    {
+      id: 4,
+      logo: skillTrack,
+      name: "SkillTrack (LMS)",
+      video: "",
+      description: "A website to find courses best instructors. share knowledge, experiences.",
+      codeLink: "https://github.com/ShubhamChavhan1615/skillTrack-client-code",
+      btn1: "Watch Video",
+      btn2: "Source Code",
+      btn3: "Live Preview",
+      liveLink: "https://skilltrack-e-learn.netlify.app",
     },
     {
       id: 4,

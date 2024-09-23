@@ -6,7 +6,7 @@ import { SiMongodb, SiExpress } from "react-icons/si";
 import { FaReact, FaNodeJs } from "react-icons/fa6";
 import { ReactTyped } from "react-typed";
 
-import Resume from "../../public/Resume.pdf";
+import Resume from "../../public/shubhamResume.pdf";
 
 function Home() {
   return (
