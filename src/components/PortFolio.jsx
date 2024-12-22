@@ -91,6 +91,12 @@ function PortFolio() {
       description: "Phone shop user interface predominantly built using HTML for the structural elements of the webpage and CSS for styling and layout.",
       codeLink: "https://shubhamchavhan1615.github.io/Mobile/",
     },
+    {
+      id: 4,
+      name: "Furniture Web",
+      description: "Furniture web user interface predominantly built using HTML for the structural elements of the webpage and CSS for styling and layout.",
+      codeLink: "https://shubhamchavhan1615.github.io/furniture-web-app-design/",
+    },
   ];
 
   const openModal = (video) => {
